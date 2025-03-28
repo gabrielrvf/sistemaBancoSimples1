@@ -1,4 +1,4 @@
-# Banco da UDF
+# Banco da UDF - PYTHON
 
 ## Descrição
 Este é um programa simples de simulação bancária em Python que permite ao usuário realizar operações básicas como saque, depósito e investimento. O programa inicia com um saldo predefinido e um limite de saque diário, interagindo com o usuário por meio de entradas no console.
